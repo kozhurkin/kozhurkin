@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Logr]
 - 🌱 I’m currently learning Golang
 
