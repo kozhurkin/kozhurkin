@@ -5,4 +5,4 @@
 
 [Logr]: https://github.com/504dev/logr
 
-![Logr](https://i.ibb.co/4dsbDdk/image.png)
+[![Logr](https://i.ibb.co/4dsbDdk/image.png)][http://logr.info/demo]
