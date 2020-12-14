@@ -5,4 +5,7 @@
 
 [Logr]: https://github.com/504dev/logr
 
-[![Logr](https://i.ibb.co/4dsbDdk/image.png)][http://logr.info/demo]
+
+[![Logr](https://i.ibb.co/4dsbDdk/image.png)][logrinfo]
+
+[logrinfo]: http://logr.info
