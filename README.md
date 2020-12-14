@@ -8,4 +8,4 @@
 
 [![Logr](https://i.ibb.co/4dsbDdk/image.png)][logrinfo]
 
-[logrinfo]: http://logr.info
+[logrinfo]: http://logr.info/demo
