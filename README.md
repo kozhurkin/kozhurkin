@@ -6,6 +6,6 @@
 [Logr]: https://github.com/504dev/logr
 
 
-[![Logr](https://raw.githubusercontent.com/504dev/logr-front/master/static/preview.jpg)][Demo]
+[![Logr](https://raw.githubusercontent.com/504dev/logr-front/master/static/preview.jpg)][logrinfo]
 
 [logrinfo]: https://logr.info/demo
