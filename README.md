@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Logr]
-- 🌱 I’m currently learning Golang
+Take a look at my pet project 🧐 **[Logr]**
 
 [Logr]: https://github.com/504dev/logr
 
