@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Take a look at my pet project 🧐 **[Logr]**
+Take a look at my pet projects **[pipers]** and **[logr]**
 
-[Logr]: https://github.com/504dev/logr
+[pipers]: https://github.com/kozhurkin/pipers
+[logr]: https://github.com/504dev/logr
 
 
 [![Logr](https://raw.githubusercontent.com/504dev/logr-front/master/static/preview.png?111)][logrinfo]
