@@ -1,7 +1,7 @@
 <h2><a href="https://github.com/kozhurkin/kozhurkin/blob/main/Dmitry_Kozhurkin_CV_en.pdf" title="Dmitry_Kozhurkin_CV.pdf"><img src="https://cdn-icons-png.flaticon.com/128/36/36049.png" height="32" /></a></h2>
 
 ### Hi there 👋
-Take a look at my pet projects: **[singleflight]**, **[pipers]** and **[logr]**
+Take a look at my pet projects: **[singleflight]** • **[pipers]** • **[logr]**
 
 [singleflight]: https://github.com/kozhurkin/singleflight
 [pipers]: https://github.com/kozhurkin/pipers
